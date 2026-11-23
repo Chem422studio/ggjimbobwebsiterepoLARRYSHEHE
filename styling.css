@@ -3,6 +3,8 @@ body
     background-color: black;
 }
 
+
+
 #main_div
 {
 
@@ -16,12 +18,30 @@ body
 
 }
 
-
-button
+#button1
 {
-    background-image: url("door.png");
+    background-image: url("orangethewiz.png");
     
     background-color: transparent;
-    width: 256px;
-    height: 256px;
+    width: 78px;
+    height: 127px;
 }
+
+#button2
+{
+    
+    background-color: white;
+    width: 60px;
+    height: 50px;
+}
+
+
+#button3
+{
+    background-image: url("chem422.png");
+    
+    background-color: transparent;
+    width: 293px;
+    height: 251px;
+}
+
