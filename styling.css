@@ -1,0 +1,27 @@
+body
+{
+    background-color: black;
+}
+
+#main_div
+{
+
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
+button
+{
+    background-image: url("door.png");
+    
+    background-color: transparent;
+    width: 256px;
+    height: 256px;
+}
